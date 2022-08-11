@@ -1,4 +1,13 @@
-# projeto1
+# Make your burger
+
+# Sobre o projeto
+
+Esse projeto foi criado para apredizagem eu VueJS 3.
+
+Nesse projeto, criamos uma aplicação front para um Hamburgueria, 
+aqui o clinte pode montar seu hambúrger com as opções disponível.
+
+Na página de pedidos, mostrarar um lista com os pedidos e opções de cancelar por exemplo.
 
 ## Project setup
 ```
