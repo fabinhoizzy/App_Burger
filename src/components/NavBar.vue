@@ -3,7 +3,7 @@
     <router-link to="/" id="logo_url">
         <img :src="logo" :alt="alt" id="logo">
     </router-link>
-    <router-link to="/">Home</router-link> |
+    <router-link to="/">Home</router-link>
     <router-link to="/pedidos">Pedidos</router-link>
   </div>
 </template>
@@ -37,8 +37,9 @@ export default {
 #nav a {
   color: #FCBA03;
   text-decoration: none;
-  margin: 2px;
+  margin: 12px;
   transition: .5s;
+  font-size: large;
 }
 
 #nav a:hover {
